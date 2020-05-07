@@ -38,10 +38,17 @@ border-radius: 20px;
 transition: 0.5s ease;
 
 }
-.active{
+active{
     background-color: blue;
+    color: #fff !important;
     border-radius: 20px; 
    
+}
+ul.navbar-nav li a:hover {
+    color: #fff !important;
+}
+.dropdown-menu.show a:hover {
+    border-radius: 0;
 }
 .img-fluid{
     width: 100%;

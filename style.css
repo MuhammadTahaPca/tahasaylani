@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: whitesmoke;
+}
+ul li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    }
+.t-buttons a{
+    padding: 1px;
+     border-color: white;
+   
+}
+.header1 img{
+    width: 50%; 
+}
+
+.navbar-nav{
+    margin-left: 220px;
+}
+.navbar-nav li:{
+    padding: 5px;
+
+}
+
+.navbar-nav li a {
+    color: black;
+}
+.navbar-nav li a:hover {
+background-color: blue;
+border-radius: 20px;
+transition: 0.5s ease;
+
+}
+.active{
+    background-color: blue;
+    border-radius: 20px; 
+   
+}
+.img-fluid{
+    width: 100%;
+}
+.heading {
+    color:brown;    
+}
+.sheading{
+    color: green;
+}
+.header4 p{
+    line-height: 2.4;
+    font-size: 15px;
+}
+.separator {
+    width: 70px;
+    height: 3px;
+    display: block;
+    background-color: green;
+}
+.projects marquee{
+    height: 200px;
+}
+.gallery img{
+   width: 200px;
+   margin: 10px;
+   padding:0px;
+}
+.fa li i {
+    color:  green;
+}
+.fa li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.fa b{
+    line-height: 2;
+}
+.csocial i {
+    color: white;
+    padding: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin: 4px;
+    margin-top: 10px;
+    border-radius: 30px;
+    background-color: blue;
+}
+.csocial a{
+    text-decoration: none;
+}
+.footer{
+    font-size: 14px;
+    background-color: rgb(96, 96, 236);
+    color: white;
+    padding: 15px;
+}
+.scrolltotop {
+    display: inline; 
+    width:50px;
+    height: 50px;
+    right: 15px;
+    text-align: center;
+    text-decoration: none;
+    position: fixed;
+    padding: 2px;
+    bottom: 15px;
+   background: rgba(0, 0, 0, 0.1);
+}
+.scrolltotop i {
+    display: inline-block; 
+    font-size: 42px; 
+    color: white;
+}
+
+
+
+
+
+
